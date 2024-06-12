@@ -20,7 +20,7 @@ public class SumaDeArreglos3 {
 	            
 	        }
 
-	        System.out.println("La suma de los elementos de la matriz es: " + suma);
+	        System.out.println("la suma de los elementos de la matriz es: " + suma);
 	    
 		
 		
