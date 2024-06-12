@@ -16,6 +16,5 @@ public class SumaDeArreglos1 {
 	        System.out.println("La suma de los elementos del arreglo es: " + suma);
 	    
 		
-		
 	}
 }
